@@ -11,7 +11,7 @@ const Hero = () => {
        </div>
        <div className='col-span-2 px-5 my-auto'>
 
-       <h1 className='text-white text-2xl sm:text-2xl lg:text-6xl font-extrabold'>
+       <h1 className='text-white text-xl sm:text-xl lg:text-5xl font-extrabold'>
         
         <span className='primary-color'>
           I'm a
@@ -32,7 +32,7 @@ const Hero = () => {
        </h1>
        
        <div className='my-8'>
-         <a href='https://drive.google.com/file/d/1-X3Ik8VEgm8uGNj7LpQg-zU2RydzpLL8/view?usp=drivesdk' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white '>Download CV</a>
+         <a href='https://drive.google.com/file/d/1-X3Ik8VEgm8uGNj7LpQg-zU2RydzpLL8/view?usp=drivesdk' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white '>Resume</a>
        
         
          <a href='#contact' className='px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'>Contact</a>
